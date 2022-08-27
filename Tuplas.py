@@ -1,6 +1,8 @@
-#tuplas é imutável
+#tuplas é lista imutável
 #desempacotamento
 #contar posicão
+
+#count -> contar qunatos numeros tem dentro
 
 #   x=(1,2,3)
 
@@ -21,7 +23,9 @@ nome, idade, *coisas_que_eu_n_quero = minha_tupla
 #nome, idade = idade, nome
 #inverte.
 
-#codigos separados por virgulas e virgulas são sempre tuplas.
+#codigos separados por virgulas são sempre tuplas.
 
-#def minha_func():
-#return 1,2,3
+def minha_func():
+        return 1,2,3 
+    
+#estudar mais empacotamento das tuplas.
