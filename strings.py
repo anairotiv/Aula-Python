@@ -31,3 +31,24 @@
 
 #f'nome: {nome}, idade: {idade}'
 #'nome: Eduardo, idade 25'
+
+############ METODOS UTILIZANDO STRING ##############
+
+# a = abracadabra
+
+# a.count ('a') -> conta quantos a tem dentro
+# a.index ('c') -> qual a posicao do c na palavra
+#a.partition('c') _ ('Abra', 'c', 'adabra')
+#a.replace('a', 'c') -> trocar todos o a pelo c
+# a.lower() -> letras minusculas
+# a.slipt ('a') -> cria uma lista tiradno todas as letras que vc pedir
+
+#exemplos de como fazer
+# 'Ana Ana Ana Ana'.count ('Ana')
+# 'Ana Ana Ana Ana'.partition
+
+#PARA VER TODOS OS METODOS DE UMA STRING UTLIZA: dir('')
+
+#'eu te odeio'
+#'eu te odeio'.replace('odeio', 'amo')
+#'eu te amo'
